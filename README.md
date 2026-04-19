@@ -63,5 +63,5 @@ claude-code-setup/
 Hi 我是 Sulli
 專注幫已經在用自媒體賺錢的創作者，把成交流程自動化，用更輕鬆更快的速度賺到錢！
 
-- IG：[@bizkit_sulli](#)
-- Threads：[@bizkit_sulli](#)
+- IG：[@bizkit_sulli](#https://www.instagram.com/sulli_bizkit/)
+- Threads：[@bizkit_sulli](#https://www.threads.com/@sulli_bizkit?xmt=AQF06Ek0EJ6SJ_7yMRECAYq-5fQ41krcIo1Sun1FHbMVgDU)
