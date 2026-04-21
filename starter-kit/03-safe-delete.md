@@ -78,3 +78,14 @@ cat ~/.claude/settings.json | grep "deny"
 ```
 
 三個都有回應 = 保護機制啟動完成 ✅
+
+---
+
+© Bizkit · sulli-bizkit｜保留所有權利
+
+本文件由 Bizkit 原創製作，未經授權禁止轉載、複製或商業使用。
+
+- IG：https://www.instagram.com/sulli_bizkit/
+- Threads：https://www.threads.com/@sulli_bizkit
+- GitHub：https://github.com/sulli-bizkit/claude-code-setup
+- 服務詳情：（即將公開）
