@@ -60,3 +60,14 @@
 把三個資料庫的連結填入你的 `CLAUDE.md` 的 Notion 工作空間區塊。
 
 之後說「記錄靈感」「新增貼文」「看本週進度」，Claude 就會直接幫你操作這三個資料庫。
+
+---
+
+© Bizkit · sulli-bizkit｜保留所有權利
+
+本文件由 Bizkit 原創製作，未經授權禁止轉載、複製或商業使用。
+
+- IG：https://www.instagram.com/sulli_bizkit/
+- Threads：https://www.threads.com/@sulli_bizkit
+- GitHub：https://github.com/sulli-bizkit/claude-code-setup
+- 服務詳情：（即將公開）
