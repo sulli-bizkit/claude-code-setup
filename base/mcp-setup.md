@@ -66,3 +66,14 @@ claude mcp list
 ## 需要幫助？
 
 遇到問題可以參考 [Claude Code 官方文件](https://docs.anthropic.com/claude-code)
+
+---
+
+© Bizkit · sulli-bizkit｜保留所有權利
+
+本文件由 Bizkit 原創製作，未經授權禁止轉載、複製或商業使用。
+
+- IG：https://www.instagram.com/sulli_bizkit/
+- Threads：https://www.threads.com/@sulli_bizkit
+- GitHub：https://github.com/sulli-bizkit/claude-code-setup
+- 服務詳情：（即將公開）
