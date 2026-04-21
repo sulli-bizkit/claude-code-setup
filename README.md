@@ -65,3 +65,14 @@ Hi 我是 Sulli
 
 - IG：[@bizkit_sulli](https://www.instagram.com/sulli_bizkit/)
 - Threads：[@bizkit_sulli](https://www.threads.com/@sulli_bizkit?xmt=AQF06Ek0EJ6SJ_7yMRECAYq-5fQ41krcIo1Sun1FHbMVgDU)
+
+---
+
+© Bizkit · sulli-bizkit｜保留所有權利
+
+本文件由 Bizkit 原創製作，未經授權禁止轉載、複製或商業使用。
+
+- IG：https://www.instagram.com/sulli_bizkit/
+- Threads：https://www.threads.com/@sulli_bizkit
+- GitHub：https://github.com/sulli-bizkit/claude-code-setup
+- 服務詳情：（即將公開）
